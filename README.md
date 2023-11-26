@@ -1,5 +1,5 @@
 # belly-button-challenge
-Interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels
+Interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 ## Repository Contents
   - *index.html*: structures the dashboard's webpage
   - *samples.json*: contains the raw input data for the project. It's not directly used in the scripts but is provided for reference purposes
@@ -7,8 +7,8 @@ Interactive dashboard to explore the Belly Button Biodiversity dataset, which ca
     - **css** subdirectory with *styleAdjustments.css* that adjusts style elements of the dashboard <br>
     - **js** subdirectory with the core JavaScript file *app.js*, responsible for constructing and rendering the interactive charts on the webpage: bar chart, bubble chart and custom gauge one adjusted depending on individual id selected, which reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare. <br>
 ## Usage
- - *Localy*: open the *index.html* in a web browser (such as Chrome) using Visual Studio Code, along with a suitable extension for live previews
- - *Online*: preview visualization on GitHub Pages (TO ADD A LINK)
+ - *Localy*: open the *index.html* in a web browser (such as Chrome) using Visual Studio Code, along with a suitable extension for live previews. <br>
+ - *Online*: preview visualization on GitHub Pages [here](https://valentynak17.github.io/belly-button-challenge/).<br>
 ## Info Resources
  - Populate html elements via json: 
    - [Dropdown Items](https://stackoverflow.com/questions/56307874/how-do-i-use-d3-to-i-populate-drop-down-options-from-json)
