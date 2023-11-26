@@ -11,9 +11,9 @@ Interactive dashboard to explore the Belly Button Biodiversity dataset, which ca
  - *Online*: preview visualization on GitHub Pages (TO ADD A LINK)
 ## Info Resources
  - Populate html elements via json: 
-   - [Dropdown Items] (https://stackoverflow.com/questions/56307874/how-do-i-use-d3-to-i-populate-drop-down-options-from-json)
-   - [Text] (https://stackoverflow.com/questions/30518546/how-to-append-text-to-a-div-in-d3)
- - [Clear old content in html via json] (https://stackoverflow.com/questions/10784018/how-can-i-remove-or-replace-svg-content)
+   - [Dropdown Items](https://stackoverflow.com/questions/56307874/how-do-i-use-d3-to-i-populate-drop-down-options-from-json)
+   - [Text](https://stackoverflow.com/questions/30518546/how-to-append-text-to-a-div-in-d3)
+ - [Clear old content in html via json](https://stackoverflow.com/questions/10784018/how-can-i-remove-or-replace-svg-content)
 - [Filtering data in js](https://www.geeksforgeeks.org/how-to-implement-a-filter-for-objects-in-javascript/)
 - [Updating a plot in js](https://plotly.com/javascript/plotlyjs-function-reference/)
 - [Adjusting a padding for a js chart](https://stackoverflow.com/questions/70337807/how-to-change-font-size-padding-of-chart-title-only-in-chart-js-3-x)
