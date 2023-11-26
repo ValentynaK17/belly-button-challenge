@@ -1,0 +1,34 @@
+h1 {
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.names-bar {
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sample-metadata {
+    width: 100%;
+    padding: 5px;
+    overflow-wrap: break-word;
+}
+
+.panel-body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#bar {
+    font-family: Arial, Helvetica, sans-serif
+} 
+
+#bubble {
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif
+} 
+
+#gauge {
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
